@@ -1,4 +1,6 @@
-# CashXChain | www.cashxchain.com
+# CashXChain
+
+## www.cashxchain.com
 
 CashXChain is building the next generation infrastructure for global payments.
 
