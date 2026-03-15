@@ -37,10 +37,13 @@ https://docs.cashxchain.com
 API Reference  
 https://api.cashxchain.com
 
+Demo Version  
+https://demo.cashxchain.com
+
 Developer Portal  
 https://dev.cashxchain.com
 
-Platform Dashboard:  
+Platform Dashboard  
 https://app.cashxchain.com
 
 ## Use Cases
