@@ -1,6 +1,6 @@
 # CashXChain
 
-https://www.cashxchain.com
+www.cashxchain.com
 
 CashXChain is building the next generation infrastructure for global payments.
 
