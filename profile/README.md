@@ -66,3 +66,6 @@ https://www.cashxchain.com
 
 Email  
 info@cashxchain.com
+
+
+© 2026 CashXChain UG (haftungsbeschränkt) · HRB 34664 · Munich, Germany · All rights reserved.
