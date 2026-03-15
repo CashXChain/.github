@@ -34,16 +34,16 @@ This allows companies to send and receive payments globally in seconds instead o
 Documentation  
 https://docs.cashxchain.com
 
-API Reference  
-https://api.cashxchain.com
-
 Demo Version  
 https://demo.cashxchain.com
 
-Developer Portal  
+API Reference (coming soon)  
+https://api.cashxchain.com
+
+Developer Portal (coming soon)  
 https://dev.cashxchain.com
 
-Platform Dashboard  
+Platform Dashboard (coming soon)  
 https://app.cashxchain.com
 
 ## Use Cases
