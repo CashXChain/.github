@@ -40,7 +40,7 @@ https://api.cashxchain.com
 Developer Portal  
 https://dev.cashxchain.com
 
-Platform Dashboard:
+Developer Portal  
 https://app.cashxchain.com
 
 ## Use Cases
