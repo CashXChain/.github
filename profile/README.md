@@ -1,5 +1,7 @@
 # CashXChain
 
+https://www.cashxchain.com
+
 CashXChain is building the next generation infrastructure for global payments.
 
 Our mission is simple:
@@ -38,6 +40,9 @@ https://api.cashxchain.com
 Developer Portal  
 https://dev.cashxchain.com
 
+Platform Dashboard:
+https://app.cashxchain.com
+
 ## Use Cases
 
 - B2B cross-border payments
@@ -54,7 +59,7 @@ We focus on EU–Africa and EU–Asia payment corridors and aim to create the mo
 ## Contact
 
 Website  
-https://cashxchain.com
+https://www.cashxchain.com
 
 Email  
 info@cashxchain.com
