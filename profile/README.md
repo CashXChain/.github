@@ -1,3 +1,1 @@
-#CashXChain
-
-test
+CashXChain
