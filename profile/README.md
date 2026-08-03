@@ -68,4 +68,4 @@ Email
 info@cashxchain.com
 
 
-©  2026 CashXChain Inc. · Operated by CashXChain UG (haftungsbeschränkt) · All rights reserved.
+© 2025–2026 CashXChain Inc. All rights reserved.
