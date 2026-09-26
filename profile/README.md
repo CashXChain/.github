@@ -69,7 +69,7 @@ info@cashxchain.com
 
 
 
-### Copyright © 2025-2026 CashXChain Inc.
+## Copyright © 2025-2026 CashXChain Inc.
 All rights reserved.
 
 This software is proprietary and confidential.
