@@ -57,7 +57,7 @@ https://app.cashxchain.com
 
 CashXChain is a fintech startup building global payment infrastructure.
 
-We focus on EU–Africa and EU–Asia payment corridors and aim to create the most efficient bridge between traditional finance and blockchain-based settlement.
+We focus on EU–US and EU–Asia payment corridors and aim to create the most efficient bridge between traditional finance and blockchain-based settlement.
 
 ## Contact
 
